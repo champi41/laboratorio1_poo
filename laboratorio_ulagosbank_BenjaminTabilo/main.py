@@ -1,3 +1,5 @@
+#Integrantes Samuel Delgado, Camilo Mansilla y Benjamin Tabilo
+
 from persona import persona
 from cliente import cliente
 from ejecutivo import ejecutivo
